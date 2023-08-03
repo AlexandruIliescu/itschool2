@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce7a862d-ea57-4433-85c9-96b8454fb27e" name="Changes" comment="Merge with test branch" />
+    <list default="true" id="ce7a862d-ea57-4433-85c9-96b8454fb27e" name="Changes" comment="Cleanup" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690820740645</updated>
-      <workItem from="1691077419006" duration="533000" />
+      <workItem from="1691077419006" duration="905000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1690821460573</created>
@@ -122,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691077916148</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Cleanup">
+      <created>1691078316602</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691078316602</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +152,7 @@
     <MESSAGE value="Commit from test branch" />
     <MESSAGE value="Commit from main branch" />
     <MESSAGE value="Merge with test branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge with test branch" />
+    <MESSAGE value="Cleanup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleanup" />
   </component>
 </project>

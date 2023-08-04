@@ -26,7 +26,7 @@ public class AssignmentCompoundOperator {
          * On the other hand, the example from below would implicitly cast the result back
          * to the type of byteValue
          */
-        byteValue += byteValue; //this is valid
+        byteValue += byteValue;
 
         /*
          * Main advantage of compound assignment:

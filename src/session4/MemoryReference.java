@@ -1,5 +1,7 @@
 package session4;
 
+import session6.PracticeUser;
+
 public class MemoryReference {
 
     public static void main(String[] args) {
@@ -8,8 +10,8 @@ public class MemoryReference {
 //        System.out.println(greetingOne == greetingTwo);
 //        System.out.println(greetingOne.equals(greetingTwo));
 
-        User user1 = new User();
-        User user2 = new User();
+        PracticeUser user1 = new PracticeUser();
+        PracticeUser user2 = new PracticeUser();
 //        user2 = null;
         user2 = user1;
 //        System.out.println(user1 == user2);
